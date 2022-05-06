@@ -10,6 +10,9 @@ Bootcamp assignment 1: Refactoring given HTML and CSS file as acceptance criteri
 * Heading attributes fall in sequential order
 * Concise and descriptive title
 
+## Sample Website
+![Sample][https://github.com/d104601/bootcamp_assignment1/blob/master/sample_website.jpg?raw=true]
+
 ## Refactoring
 ### index.html
 Following changes applied to the HTML file.
