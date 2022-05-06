@@ -11,7 +11,7 @@ Bootcamp assignment 1: Refactoring given HTML and CSS file as acceptance criteri
 * Concise and descriptive title
 
 ## Sample Website
-![Sample][https://github.com/d104601/bootcamp_assignment1/blob/master/sample_website.jpg?raw=true]
+![Sample](https://github.com/d104601/bootcamp_assignment1/blob/master/sample_website.jpg?raw=true)
 
 ## Refactoring
 ### index.html
